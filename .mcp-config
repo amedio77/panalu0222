@@ -1,0 +1,9 @@
+{
+  "mysql": {
+    "host": "panalu0222.mycafe24.com",
+    "user": "panalu0222",
+    "password": "Ws1036834!",
+    "database": "panalu0222",
+    "port": 3306
+  }
+}
